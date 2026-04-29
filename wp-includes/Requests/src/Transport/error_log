@@ -1,0 +1,48 @@
+[14-Apr-2026 10:19:14 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[14-Apr-2026 10:19:14 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[14-Apr-2026 10:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[14-Apr-2026 10:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[16-Apr-2026 08:59:37 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[16-Apr-2026 08:59:38 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[16-Apr-2026 09:10:55 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[16-Apr-2026 09:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[24-Apr-2026 20:26:32 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[24-Apr-2026 20:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[24-Apr-2026 20:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[24-Apr-2026 20:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

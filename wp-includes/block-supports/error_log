@@ -1,0 +1,372 @@
+[14-Apr-2026 10:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/align.php on line 59
+[14-Apr-2026 10:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/colors.php on line 138
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[14-Apr-2026 10:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83
+[14-Apr-2026 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/typography.php:703
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/typography.php on line 703
+[14-Apr-2026 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[14-Apr-2026 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[14-Apr-2026 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[14-Apr-2026 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[14-Apr-2026 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/align.php on line 59
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/colors.php on line 138
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[16-Apr-2026 09:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[16-Apr-2026 09:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83
+[16-Apr-2026 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/typography.php:703
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/typography.php on line 703
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[16-Apr-2026 09:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[16-Apr-2026 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[16-Apr-2026 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[16-Apr-2026 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[16-Apr-2026 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[16-Apr-2026 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83
+[24-Apr-2026 20:27:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/align.php on line 59
+[24-Apr-2026 20:27:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[24-Apr-2026 20:27:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[24-Apr-2026 20:27:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[24-Apr-2026 20:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[24-Apr-2026 20:27:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/colors.php on line 138
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[24-Apr-2026 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83
+[24-Apr-2026 20:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/typography.php:703
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/typography.php on line 703
+[24-Apr-2026 20:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/aria-label.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/aria-label.php on line 64
+[24-Apr-2026 20:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/background.php on line 108
+[24-Apr-2026 20:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/block-visibility.php on line 33
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/border.php on line 170
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/dimensions.php on line 164
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/duotone.php on line 36
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/elements.php on line 263
+[24-Apr-2026 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/layout.php on line 981
+[24-Apr-2026 20:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/position.php on line 145
+[24-Apr-2026 20:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/igisem/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/settings.php on line 151
+[24-Apr-2026 20:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/shadow.php on line 79
+[24-Apr-2026 20:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/igisem/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-supports/spacing.php on line 83

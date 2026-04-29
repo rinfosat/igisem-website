@@ -1,0 +1,120 @@
+[14-Apr-2026 10:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[14-Apr-2026 10:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[14-Apr-2026 10:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[14-Apr-2026 10:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[14-Apr-2026 10:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[14-Apr-2026 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[14-Apr-2026 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[14-Apr-2026 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[14-Apr-2026 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[14-Apr-2026 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Apr-2026 09:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Apr-2026 09:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Apr-2026 09:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Apr-2026 09:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Apr-2026 09:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[16-Apr-2026 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[16-Apr-2026 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[16-Apr-2026 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[16-Apr-2026 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[16-Apr-2026 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[24-Apr-2026 20:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Apr-2026 20:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Apr-2026 20:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Apr-2026 20:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Apr-2026 20:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[24-Apr-2026 20:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Apr-2026 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Apr-2026 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Apr-2026 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Apr-2026 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4

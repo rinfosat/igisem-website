@@ -1,0 +1,72 @@
+[14-Apr-2026 10:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Apr-2026 10:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Apr-2026 10:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[14-Apr-2026 10:37:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Apr-2026 10:37:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Apr-2026 10:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Apr-2026 09:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Apr-2026 09:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Apr-2026 09:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[16-Apr-2026 09:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[16-Apr-2026 09:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[16-Apr-2026 09:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[24-Apr-2026 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[24-Apr-2026 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Apr-2026 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[24-Apr-2026 20:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[24-Apr-2026 20:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Apr-2026 20:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

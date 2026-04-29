@@ -1,0 +1,96 @@
+[14-Apr-2026 10:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[14-Apr-2026 10:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[14-Apr-2026 10:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[14-Apr-2026 10:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[14-Apr-2026 10:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[14-Apr-2026 10:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[14-Apr-2026 10:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[14-Apr-2026 10:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[16-Apr-2026 09:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[16-Apr-2026 09:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[16-Apr-2026 09:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[16-Apr-2026 09:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[16-Apr-2026 09:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[16-Apr-2026 09:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[16-Apr-2026 09:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[16-Apr-2026 09:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Apr-2026 20:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Apr-2026 20:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Apr-2026 20:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Apr-2026 20:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Apr-2026 20:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Apr-2026 20:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Apr-2026 20:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Apr-2026 20:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

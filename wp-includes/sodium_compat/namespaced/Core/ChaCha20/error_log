@@ -1,0 +1,48 @@
+[14-Apr-2026 10:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[14-Apr-2026 10:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[14-Apr-2026 10:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[14-Apr-2026 10:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[16-Apr-2026 09:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[16-Apr-2026 09:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[16-Apr-2026 09:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[16-Apr-2026 09:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[24-Apr-2026 20:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[24-Apr-2026 20:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4
+[24-Apr-2026 20:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php on line 4
+[24-Apr-2026 20:34:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_IetfCtx" not found in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php on line 4

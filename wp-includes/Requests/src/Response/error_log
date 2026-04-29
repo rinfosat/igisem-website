@@ -1,0 +1,24 @@
+[14-Apr-2026 10:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[14-Apr-2026 10:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[16-Apr-2026 08:59:34 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[16-Apr-2026 09:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[24-Apr-2026 20:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[24-Apr-2026 20:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Response/Headers.php on line 20

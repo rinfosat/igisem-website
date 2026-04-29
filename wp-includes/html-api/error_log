@@ -1,0 +1,48 @@
+[14-Apr-2026 10:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[14-Apr-2026 10:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[14-Apr-2026 10:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[14-Apr-2026 10:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[16-Apr-2026 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[16-Apr-2026 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[16-Apr-2026 09:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[16-Apr-2026 09:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[24-Apr-2026 20:28:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[24-Apr-2026 20:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[24-Apr-2026 20:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[24-Apr-2026 20:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/html-api/html5-named-character-references.php on line 38

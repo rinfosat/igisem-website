@@ -1,0 +1,24 @@
+[14-Apr-2026 10:18:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12
+[14-Apr-2026 10:29:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12
+[16-Apr-2026 08:59:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12
+[16-Apr-2026 09:10:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12
+[24-Apr-2026 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12
+[24-Apr-2026 20:31:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/library/Requests.php on line 12

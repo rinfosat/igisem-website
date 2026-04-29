@@ -1,0 +1,72 @@
+[14-Apr-2026 10:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[14-Apr-2026 10:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[14-Apr-2026 10:19:01 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17
+[14-Apr-2026 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[14-Apr-2026 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[14-Apr-2026 10:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17
+[16-Apr-2026 08:59:16 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[16-Apr-2026 08:59:16 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[16-Apr-2026 08:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17
+[16-Apr-2026 09:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[16-Apr-2026 09:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[16-Apr-2026 09:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17
+[24-Apr-2026 20:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[24-Apr-2026 20:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[24-Apr-2026 20:26:26 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17
+[24-Apr-2026 20:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[24-Apr-2026 20:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Http.php on line 18
+[24-Apr-2026 20:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Exception/Transport.php on line 17

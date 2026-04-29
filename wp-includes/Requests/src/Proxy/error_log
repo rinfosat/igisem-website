@@ -1,0 +1,24 @@
+[14-Apr-2026 10:19:08 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[14-Apr-2026 10:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[16-Apr-2026 08:59:31 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[16-Apr-2026 09:10:48 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[24-Apr-2026 20:26:29 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[24-Apr-2026 20:31:43 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24

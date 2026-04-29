@@ -1,0 +1,48 @@
+[14-Apr-2026 10:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[14-Apr-2026 10:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-data.php on line 98
+[14-Apr-2026 10:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[14-Apr-2026 10:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/term-data.php on line 119
+[16-Apr-2026 09:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[16-Apr-2026 09:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-data.php on line 98
+[16-Apr-2026 09:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[16-Apr-2026 09:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/term-data.php on line 119
+[24-Apr-2026 20:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[24-Apr-2026 20:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-data.php on line 98
+[24-Apr-2026 20:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[24-Apr-2026 20:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-bindings/term-data.php on line 119

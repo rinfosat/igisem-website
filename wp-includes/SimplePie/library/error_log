@@ -1,0 +1,24 @@
+[14-Apr-2026 10:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26
+[14-Apr-2026 10:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26
+[16-Apr-2026 08:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26
+[16-Apr-2026 09:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26
+[24-Apr-2026 20:26:36 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26
+[24-Apr-2026 20:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\SimplePie" not found in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/library/SimplePie.php on line 26

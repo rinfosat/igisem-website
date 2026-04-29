@@ -1,0 +1,24 @@
+[14-Apr-2026 10:27:54 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Apr-2026 10:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Apr-2026 09:08:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[16-Apr-2026 09:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[24-Apr-2026 20:30:36 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[24-Apr-2026 20:35:10 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

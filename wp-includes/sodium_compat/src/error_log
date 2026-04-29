@@ -1,0 +1,24 @@
+[14-Apr-2026 10:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[14-Apr-2026 10:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[16-Apr-2026 09:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[16-Apr-2026 09:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[24-Apr-2026 20:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[24-Apr-2026 20:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/File.php on line 9

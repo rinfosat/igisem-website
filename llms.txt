@@ -1,0 +1,38 @@
+﻿# Groupe IGISEM
+
+> Learn today lead tomorrow
+
+
+## Pages
+
+- [Messenger](https://igisem.org/messenger/)
+- [Evenet](https://igisem.org/evenet/)
+- [Validation des Diplômes](https://igisem.org/validation-des-diplomes/)
+- [Commande terminée](https://igisem.org/tickets-order/)
+- [Commande de billets](https://igisem.org/tickets-checkout/)
+- [Dashboard](https://igisem.org/sch-dashboard/): Dashboard contains all the overview ! 
+- [Student Registration Page](https://igisem.org/student-registration-page/)
+- [Dashboard Page](https://igisem.org/dashboard-page/)
+- [My account](https://igisem.org/my-account/)
+- [Checkout](https://igisem.org/checkout/)
+- [Cart](https://igisem.org/cart/)
+- [Instructor Registration](https://igisem.org/instructor-registration/)
+- [Home](https://igisem.org/): Cours en ligne L&rsquo;éducation n&rsquo;est pas une préparation à la vie, l&rsquo;éducation est la vie même. Apprenants 0 Certifications 0 Instructeurs 0 Cours publiés 0 Dernières nouvelles L’apprentissage se déroule souvent en classe, mais ce n’est pas une obligation. March 05, 2026 Doubler son salaire, ou du moins l&rsquo;augmenter sensiblement. Lire la suite March 10, 2026 Ma carrière est faite de choses que je n&rsquo;aurais jamais imaginées. Lire la suite March 13, 2026 Ne demandez pas une augmentation, devenez indispensable. Lire la suite Vous souhaitez recevoir des offres spéciales et des mises à jour sur les cours ? S&rsquo;abonner
+- [Courses](https://igisem.org/course/):  
+- [About Us](https://igisem.org/about-us/): About Us HOME / ABOUT Discover about tutor There’s no system too big to reimagine—not even the criminal justice system Do you ever scroll through images of beautiful lettering on Instagram and think to yourself that if you could do the same? Things that make us proud Choose your learning level Beginner With analytics tools, to help you share with current and future clients. Intermediate Total collections, quoting, and reporting in Italian and English. Advanced All services for our team of industry experts, personal training. Mastery We can help you set up &#038; manage groups if you become our partner.
+- [Terms and Conditions](https://igisem.org/terms-and-conditions/): Conditions Générales d&rsquo;Utilisation (CGU) &#8211; Groupe IGISEM 1. Objet Les présentes CGU ont pour objet de définir les modalités de mise à disposition des services de la plateforme igisem.org, propriété du Groupe IGISEM, géré par la société Learn Today Lead Tomorrow. Toute inscription à un cours implique l&rsquo;acceptation sans réserve des présentes conditions. 2. Accès aux Formations 3. Propriété Intellectuelle 4. Modalités Financières (Projet Générateur de Revenus) 5. Certification et Diplômes 6. Éthique et Confidentialité 7. Droit Applicable En cas de litige, et après tentative de résolution à l&rsquo;amiable, les tribunaux compétents seront ceux de la juridiction du siège social
+- [Contact](https://igisem.org/contact/): Name * Email * Téléphone * Sujet * Commentaire ou message Soumettre Appelez-nous +212600033903   Envoyez-nous un e-mail contact@igisem.org Venez nous rendre visite 38 LOT ALMADINA 1 DEROUA CODE POSTAL 26202 MAROC
+
+## Products
+
+- [Informatique bureautique](https://igisem.org/product/informatique-bureautique/): Cette formation en informatique bureautique est conçue pour permettre aux participants d’acquérir les compétences essentielles nécessaires à l’utilisation efficace des outils informatiques dans un environnement professionnel.  Objectifs de la formation :       	Maîtriser les outils bureautiques essentiels   	Améliorer la productivité au travail   	Gagner en autonomie dans l’utilisation de l’ordinateur   	Développer des compétences recherchées sur le marché de l’emploi    👥 Public cible :Débutants, étudiants, professionnels ou toute personne souhaitant améliorer ses compétences en informatique.
+- [Cérémonie de remise des diplômes](https://igisem.org/product/ceremonie-de-remise-des-diplomes/)
+- [Marketing Management](https://igisem.org/product/marketing-management/)
+- [Gestion des entreprises](https://igisem.org/product/gestion-des-entreprises/): Le Technicien Spécialisé en Gestion des Entreprises (TSGE) est un professionnel polyvalent de niveau Bac+2 formé pour assister la direction dans le pilotage opérationnel d&rsquo;une organisation. Ce rôle combine des compétences administratives, comptables, commerciales et de gestion des ressources humaines.  Missions principales Un TSGE intervient sur plusieurs fronts pour assurer le bon fonctionnement de l&rsquo;entreprise : Gestion comptable et financière : Tenir la comptabilité courante, réaliser des diagnostics financiers et suivre l&rsquo;exécution des budgets. Administration et RH : Appliquer les techniques de management des ressources humaines, gérer la paie et assurer la communication interne et externe. Gestion commerciale : Utiliser les principes du marketing, surveiller l&rsquo;activité commerciale
+- [Economie](https://igisem.org/product/economie/)
+
+## Optional
+
+- [Agent (MCP protocol)](websites-agents.hostinger.com/igisem.org/mcp)
+
+[comment]: # (Generated by Hostinger Tools Plugin)

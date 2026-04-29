@@ -1,0 +1,36 @@
+[12-Apr-2026 07:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[13-Apr-2026 07:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[14-Apr-2026 10:18:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[14-Apr-2026 10:37:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[16-Apr-2026 08:45:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[16-Apr-2026 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[16-Apr-2026 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[24-Apr-2026 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[24-Apr-2026 20:34:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/PHPMailer/OAuth.php on line 36

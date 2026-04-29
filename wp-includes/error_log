@@ -1,0 +1,603 @@
+[12-Apr-2026 07:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[12-Apr-2026 07:31:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Apr-2026 07:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Apr-2026 07:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[12-Apr-2026 07:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137
+[13-Apr-2026 07:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[13-Apr-2026 07:54:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Apr-2026 07:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Apr-2026 07:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[13-Apr-2026 07:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137
+[14-Apr-2026 10:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/igisem/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-patterns.php on line 9
+[14-Apr-2026 10:21:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/cache.php on line 12
+[14-Apr-2026 10:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-feed.php on line 10
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-http.php on line 11
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-json.php on line 2
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-oembed.php on line 12
+[14-Apr-2026 10:21:08 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/igisem/public_html/wp-includes/class-requests.php on line 21
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-simplepie.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-simplepie.php on line 8
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-smtp.php on line 6
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-snoopy.php on line 6
+[14-Apr-2026 10:21:08 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[14-Apr-2026 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category.php on line 17
+[14-Apr-2026 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-comment.php on line 17
+[14-Apr-2026 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[14-Apr-2026 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[14-Apr-2026 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page.php on line 17
+[14-Apr-2026 10:21:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-wp-customize-section.php:408
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-customize-section.php on line 408
+[14-Apr-2026 10:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php on line 18
+[14-Apr-2026 10:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[14-Apr-2026 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[14-Apr-2026 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[14-Apr-2026 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[14-Apr-2026 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[14-Apr-2026 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[14-Apr-2026 10:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[14-Apr-2026 10:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Apr-2026 10:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\File" not found in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[14-Apr-2026 10:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Apr-2026 10:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[14-Apr-2026 10:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[14-Apr-2026 10:21:16 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[14-Apr-2026 10:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-dependencies.php on line 11
+[14-Apr-2026 10:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-scripts.php on line 11
+[14-Apr-2026 10:21:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-styles.php on line 11
+[14-Apr-2026 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/date.php on line 11
+[14-Apr-2026 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/embed-template.php on line 11
+[14-Apr-2026 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-atom-comments.php on line 8
+[14-Apr-2026 10:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rdf.php on line 8
+[14-Apr-2026 10:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss.php on line 8
+[14-Apr-2026 10:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2-comments.php on line 8
+[14-Apr-2026 10:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2.php on line 8
+[14-Apr-2026 10:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/locale.php on line 11
+[14-Apr-2026 10:26:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/meta.php on line 13
+[14-Apr-2026 10:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/ms-default-filters.php on line 16
+[14-Apr-2026 10:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[14-Apr-2026 10:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137
+[16-Apr-2026 08:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[16-Apr-2026 08:43:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Apr-2026 08:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Apr-2026 08:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[16-Apr-2026 08:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137
+[16-Apr-2026 09:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/igisem/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-patterns.php on line 9
+[16-Apr-2026 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/cache.php on line 12
+[16-Apr-2026 09:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-feed.php on line 10
+[16-Apr-2026 09:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-http.php on line 11
+[16-Apr-2026 09:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-json.php on line 2
+[16-Apr-2026 09:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-oembed.php on line 12
+[16-Apr-2026 09:01:40 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/igisem/public_html/wp-includes/class-requests.php on line 21
+[16-Apr-2026 09:01:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-simplepie.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-simplepie.php on line 8
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-smtp.php on line 6
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-snoopy.php on line 6
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category.php on line 17
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-comment.php on line 17
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[16-Apr-2026 09:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page.php on line 17
+[16-Apr-2026 09:01:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-wp-customize-section.php:408
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-customize-section.php on line 408
+[16-Apr-2026 09:01:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php on line 18
+[16-Apr-2026 09:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[16-Apr-2026 09:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[16-Apr-2026 09:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[16-Apr-2026 09:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[16-Apr-2026 09:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[16-Apr-2026 09:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[16-Apr-2026 09:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[16-Apr-2026 09:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Apr-2026 09:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\File" not found in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[16-Apr-2026 09:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[16-Apr-2026 09:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[16-Apr-2026 09:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[16-Apr-2026 09:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[16-Apr-2026 09:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-dependencies.php on line 11
+[16-Apr-2026 09:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-scripts.php on line 11
+[16-Apr-2026 09:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-styles.php on line 11
+[16-Apr-2026 09:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/date.php on line 11
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/embed-template.php on line 11
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-atom-comments.php on line 8
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rdf.php on line 8
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss.php on line 8
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2-comments.php on line 8
+[16-Apr-2026 09:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2.php on line 8
+[16-Apr-2026 09:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/locale.php on line 11
+[16-Apr-2026 09:06:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/meta.php on line 13
+[16-Apr-2026 09:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/ms-default-filters.php on line 16
+[16-Apr-2026 09:09:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[16-Apr-2026 09:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137
+[24-Apr-2026 20:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/igisem/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/block-patterns.php on line 9
+[24-Apr-2026 20:27:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/cache.php on line 12
+[24-Apr-2026 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-feed.php on line 10
+[24-Apr-2026 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-http.php on line 11
+[24-Apr-2026 20:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-json.php on line 2
+[24-Apr-2026 20:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-oembed.php on line 12
+[24-Apr-2026 20:27:30 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/igisem/public_html/wp-includes/class-requests.php on line 21
+[24-Apr-2026 20:27:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-simplepie.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-simplepie.php on line 8
+[24-Apr-2026 20:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-smtp.php on line 6
+[24-Apr-2026 20:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-snoopy.php on line 6
+[24-Apr-2026 20:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[24-Apr-2026 20:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-category.php on line 17
+[24-Apr-2026 20:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-comment.php on line 17
+[24-Apr-2026 20:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[24-Apr-2026 20:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[24-Apr-2026 20:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/igisem/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-walker-page.php on line 17
+[24-Apr-2026 20:27:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/class-wp-customize-section.php:408
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-customize-section.php on line 408
+[24-Apr-2026 20:27:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache-transient.php on line 18
+[24-Apr-2026 20:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[24-Apr-2026 20:27:37 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[24-Apr-2026 20:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[24-Apr-2026 20:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[24-Apr-2026 20:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[24-Apr-2026 20:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[24-Apr-2026 20:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[24-Apr-2026 20:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Apr-2026 20:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\File" not found in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[24-Apr-2026 20:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/igisem/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Apr-2026 20:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[24-Apr-2026 20:27:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[24-Apr-2026 20:27:44 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[24-Apr-2026 20:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-dependencies.php on line 11
+[24-Apr-2026 20:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-scripts.php on line 11
+[24-Apr-2026 20:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/class.wp-styles.php on line 11
+[24-Apr-2026 20:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/date.php on line 11
+[24-Apr-2026 20:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/embed-template.php on line 11
+[24-Apr-2026 20:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-atom-comments.php on line 8
+[24-Apr-2026 20:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rdf.php on line 8
+[24-Apr-2026 20:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss.php on line 8
+[24-Apr-2026 20:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2-comments.php on line 8
+[24-Apr-2026 20:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/igisem/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/feed-rss2.php on line 8
+[24-Apr-2026 20:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/igisem/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/locale.php on line 11
+[24-Apr-2026 20:29:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/igisem/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/meta.php on line 13
+[24-Apr-2026 20:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/igisem/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/ms-default-filters.php on line 16
+[24-Apr-2026 20:30:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/igisem/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/template-canvas.php on line 12
+[24-Apr-2026 20:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/igisem/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/utf8.php on line 137

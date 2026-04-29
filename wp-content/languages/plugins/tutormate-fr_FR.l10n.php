@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2022-06-05 23:12:41+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - TutorMate - Stable (latest release)','language'=>'fr','messages'=>['Starter Sites'=>'Sites de démarrage','https://www.themeum.com'=>'https://www.themeum.com','Themeum'=>'Themeum','Companion demo importer plugin for TutorStarter theme.'=>'Extension d’outil d’importation de démos pour le thème TutorStarter.','TutorMate'=>'TutorMate']];

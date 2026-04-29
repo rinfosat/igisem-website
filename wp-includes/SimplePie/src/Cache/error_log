@@ -1,0 +1,216 @@
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[14-Apr-2026 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[14-Apr-2026 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[14-Apr-2026 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[14-Apr-2026 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[14-Apr-2026 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[14-Apr-2026 10:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[14-Apr-2026 10:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[16-Apr-2026 09:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[16-Apr-2026 09:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[16-Apr-2026 09:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[16-Apr-2026 09:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[16-Apr-2026 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[16-Apr-2026 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[16-Apr-2026 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[16-Apr-2026 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[16-Apr-2026 09:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[16-Apr-2026 09:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[16-Apr-2026 09:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[16-Apr-2026 09:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[16-Apr-2026 09:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[24-Apr-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[24-Apr-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[24-Apr-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[24-Apr-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[24-Apr-2026 20:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[24-Apr-2026 20:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[24-Apr-2026 20:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[24-Apr-2026 20:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[24-Apr-2026 20:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[24-Apr-2026 20:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[24-Apr-2026 20:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[24-Apr-2026 20:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[24-Apr-2026 20:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[24-Apr-2026 20:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[24-Apr-2026 20:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[24-Apr-2026 20:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[24-Apr-2026 20:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[24-Apr-2026 20:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25

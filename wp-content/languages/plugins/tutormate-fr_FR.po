@@ -1,0 +1,36 @@
+# Translation of Plugins - TutorMate - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - TutorMate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-05 23:12:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - TutorMate - Stable (latest release)\n"
+
+#: inc/DemoImporter.php:37 inc/DemoImporter.php:38
+msgid "Starter Sites"
+msgstr "Sites de démarrage"
+
+#. Author URI of the plugin
+#: tutormate.php
+msgid "https://www.themeum.com"
+msgstr "https://www.themeum.com"
+
+#. Author of the plugin
+#: tutormate.php
+msgid "Themeum"
+msgstr "Themeum"
+
+#. Description of the plugin
+#: tutormate.php
+msgid "Companion demo importer plugin for TutorStarter theme."
+msgstr "Extension d’outil d’importation de démos pour le thème TutorStarter."
+
+#. Plugin Name of the plugin
+#: tutormate.php
+msgid "TutorMate"
+msgstr "TutorMate"

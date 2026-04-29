@@ -1,0 +1,24 @@
+[14-Apr-2026 10:18:47 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[14-Apr-2026 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[16-Apr-2026 08:59:09 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[16-Apr-2026 09:10:29 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[24-Apr-2026 20:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[24-Apr-2026 20:31:28 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23

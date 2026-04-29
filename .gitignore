@@ -1,0 +1,26 @@
+# WordPress - Ignorer les fichiers volumineux
+wp-config.php
+.htaccess
+.env
+*.log
+
+# Uploads (images, fichiers média - trop gros!)
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+
+# Themes volumineux
+wp-content/themes/
+
+# Plugins (à installer manuellement)
+wp-content/plugins/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Archives
+*.zip
+*.tar.gz

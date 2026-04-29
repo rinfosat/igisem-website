@@ -1,0 +1,24 @@
+[14-Apr-2026 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[14-Apr-2026 10:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[16-Apr-2026 09:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[16-Apr-2026 09:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Apr-2026 20:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Apr-2026 20:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10

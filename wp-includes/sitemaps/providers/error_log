@@ -1,0 +1,72 @@
+[14-Apr-2026 10:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[14-Apr-2026 10:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[14-Apr-2026 10:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[14-Apr-2026 10:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[14-Apr-2026 10:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[14-Apr-2026 10:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[16-Apr-2026 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[16-Apr-2026 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[16-Apr-2026 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[16-Apr-2026 09:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[16-Apr-2026 09:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[16-Apr-2026 09:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[24-Apr-2026 20:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[24-Apr-2026 20:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[24-Apr-2026 20:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[24-Apr-2026 20:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[24-Apr-2026 20:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[24-Apr-2026 20:34:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

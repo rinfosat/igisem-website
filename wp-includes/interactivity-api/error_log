@@ -1,0 +1,12 @@
+[14-Apr-2026 10:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[16-Apr-2026 09:03:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[24-Apr-2026 20:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/igisem/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
